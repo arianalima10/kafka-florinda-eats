@@ -1,2 +1,5 @@
 .quarkus
 .DS_Store
+.idea/
+*.iml
+target/
